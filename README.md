@@ -33,7 +33,7 @@
 
 ---
 
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOSDevboi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [Instagram]:https://www.instagram.com/devboidesigns/ 
 [Linkedin]:https://www.linkedin.com/in/christopher-hicks-63682512a 
