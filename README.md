@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hello, my name is Christopher
 
-<!--
-**DevboiDesigns/DevboiDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a [Music] Producer & iOS Developer
+- 💣 I'm currently working on projects of my own.
+- 📘 I'm currently learning back end.
+- 🎎 I'm currently looking to collaborate with other Content Creators
+- 📌 2021 Goals: Become a master of Swift 
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me:
+<img align="left" width="34px" src="images/instagramlogo.png">[Instagram]
+<br />
+<br />
+<img align="left" width="34px" src="images/linkedIn-logo.png">
+[Linkedin]
+
+<br />
+<br />
+
+
+
+
+## Languages: 
+<img align="left" width="34px" src="images/swiftlogo.png">
+
+<img align="left" width="34px" src="images/sqllite.png">
+
+
+
+<br />
+<br />
+
+---
+
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOSDevboi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[Instagram]:https://www.instagram.com/devboidesigns/ 
+[Linkedin]:https://www.linkedin.com/in/christopher-hicks-63682512a 
+[Music]:https://omboiofficial.com/
