@@ -14,6 +14,10 @@
 <br />
 <img align="left" width="34px" src="images/LinkinInLogoSilver.png">
 [Linkedin]
+<br />
+<br />
+<img align="left" width="34px" src="images/InstagramLogo.png">
+[Instagram]
 
 <br />
 <br />
@@ -40,3 +44,4 @@
 
 [Linkedin]:https://www.linkedin.com/in/christopher-hicks-63682512a 
 [Twitter]:https://twitter.com/devboidesigns
+[Instagram]:https://www.instagram.com/infinity.christopher/
