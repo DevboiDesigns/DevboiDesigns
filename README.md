@@ -1,4 +1,4 @@
-### Hello, my name is Christopher
+
 
 ## iOS Developer
 - 💣 currently working on projects of my own.
@@ -8,11 +8,11 @@
  
 
 
-## Connect with Me:
-<img align="left" width="34px" src="images/instagramlogo.png">[Instagram]
+## Social:
+<img align="left" width="34px" src="images/TwitterLogo.png">[Twitter]
 <br />
 <br />
-<img align="left" width="34px" src="images/linkedIn-logo.png">
+<img align="left" width="34px" src="images/LinkinInLogoSilver.png">
 [Linkedin]
 
 <br />
@@ -21,10 +21,12 @@
 
 
 
-## Languages: 
+## Skills: 
 <img align="left" width="34px" src="images/swiftlogo.png">
 
-<img align="left" width="34px" src="images/sqllite.png">
+<img align="left" width="34px" src="images/firebaseLogo.png">
+
+<img align="left" width="34px" src="images/PhotoshopLogo.png">
 
 
 
@@ -35,6 +37,6 @@
 
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[Instagram]:https://www.instagram.com/devboidesigns/ 
+
 [Linkedin]:https://www.linkedin.com/in/christopher-hicks-63682512a 
 [Twitter]:https://twitter.com/devboidesigns
