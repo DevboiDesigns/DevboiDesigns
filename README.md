@@ -22,7 +22,7 @@
 
 
 ## Skills: 
-<img align="left" width="34px" src="images/swiftlogo.png">
+<img align="left" width="25px" src="images/swiftlogo.png">
 
 <img align="left" width="34px" src="images/firebaseLogo.png">
 
