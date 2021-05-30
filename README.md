@@ -1,9 +1,9 @@
 ### Hello, my name is Christopher
 
-## I am a [Music] Producer & iOS Developer
-- 💣 I'm currently working on projects of my own.
-- 📘 I'm currently learning back end.
-- 🎎 I'm currently looking to collaborate with other Content Creators
+## iOS Developer
+- 💣 currently working on projects of my own.
+- 📘 currently learning back end.
+- 🎎 currently looking to collaborate with other Content Creators
 - 📌 2021 Goals: Become a master of Swift 
  
 
@@ -37,4 +37,4 @@
 
 [Instagram]:https://www.instagram.com/devboidesigns/ 
 [Linkedin]:https://www.linkedin.com/in/christopher-hicks-63682512a 
-[Music]:https://omboiofficial.com/
+[Twitter]:https://twitter.com/devboidesigns
