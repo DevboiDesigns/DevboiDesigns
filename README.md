@@ -8,7 +8,7 @@
 
 
  
-****
+
 
 ## Social:
 <img align="left" width="34px" src="images/twitterLogo.png">[Twitter]
@@ -24,7 +24,7 @@
 <br />
 <br />
 
-****
+
 
 
 ## Skills: 
@@ -39,10 +39,7 @@
 <br />
 <br />
 
-****
 
-<br />
-<br />
 
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
