@@ -36,7 +36,9 @@
 
 <img align="left" width="25px" src="images/sqllite.png">
 
-<img align="left" width="40px" src="images/firebaseLogo.png">
+<img align="left" width="32px" src="images/mongodb.png">
+
+<img align="left" width="42px" src="images/firebaseLogo.png">
 
 <img align="left" width="40px" src="images/photoshopLogo.png">
 
