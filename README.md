@@ -30,6 +30,8 @@
 ## Skills: 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
+<img align="left" width="33px" src="images/html5.png">
+
 <img align="left" width="25px" src="images/sqllite.png">
 
 <img align="left" width="40px" src="images/firebaseLogo.png">
