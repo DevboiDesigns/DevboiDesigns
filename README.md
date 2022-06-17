@@ -11,15 +11,22 @@
 [Instagram]
 
 <br />
-<br />
 
-## Skills:
+## Languages:
 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
 <img align="left" width="27px" src="images/javascript.png">
 
 <img align="left" width="33px" src="images/html5.png">
+
+<img align="left" width="33px" src="images/css.png">
+
+<br />
+
+<br />
+
+## Skills:
 
 <img align="left" width="25px" src="images/sqllite.png">
 
