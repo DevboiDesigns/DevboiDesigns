@@ -16,7 +16,7 @@
 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
-<img align="left" width="27px" src="images/javascript.png">
+<img align="left" width="25px" src="images/javascript.png">
 
 <img align="left" width="33px" src="images/html5.png">
 
@@ -26,13 +26,21 @@
 
 <br />
 
-## Skills:
+## Tools:
+
+<img align="left" width="33px" src="images/swiftui.png">
+
+<img align="left" width="45px" src="images/nodejs.png">
 
 <img align="left" width="25px" src="images/sqllite.png">
 
 <img align="left" width="32px" src="images/mongodb.png">
 
 <img align="left" width="42px" src="images/firebaseLogo.png">
+
+<img align="left" width="40px" src="images/xcode.png">
+
+<img align="left" width="35px" src="images/postman.png">
 
 <img align="left" width="40px" src="images/photoshopLogo.png">
 
