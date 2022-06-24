@@ -50,6 +50,17 @@
 <br />
 <br />
 
+## Experience:
+
+- Front End Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
+- Lead iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present`
+
+<br />
+<br />
+
+<br />
+<br />
+
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/christopher-hicks-63682512a
