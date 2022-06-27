@@ -38,9 +38,9 @@
 
 <img align="left" width="42px" src="images/firebaseLogo.png">
 
-<img align="left" width="40px" src="images/xcode.png">
+<img align="left" width="35px" src="images/xcode.png">
 
-<img align="left" width="35px" src="images/postman.png">
+<img align="left" width="30px" src="images/postman.png">
 
 <img align="left" width="40px" src="images/photoshopLogo.png">
 
@@ -53,7 +53,7 @@
 ## Experience:
 
 - Front End Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
-- Lead iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present`
+- iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present`
 
 <br />
 <br />
