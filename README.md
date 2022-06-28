@@ -53,7 +53,7 @@
 ## Experience:
 
 - Front End Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
-- iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present`
+- iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - Jun 2022`
 
 <br />
 <br />
