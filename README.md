@@ -42,7 +42,7 @@
 
 <img align="left" width="30px" src="images/postman.png">
 
-<img align="left" width="40px" src="images/photoshopLogo.png">
+<!-- <img align="left" width="40px" src="images/photoshopLogo.png"> -->
 
 <br />
 <br />
