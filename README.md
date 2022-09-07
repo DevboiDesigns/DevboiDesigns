@@ -50,10 +50,10 @@
 <br />
 <br />
 
-## Experience:
+## Hire Me:
 
-- Front End Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
-- iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present`
+- Full Stack Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
+<!-- - iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present` -->
 
 <br />
 <br />
