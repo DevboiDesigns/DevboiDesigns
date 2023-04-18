@@ -16,6 +16,8 @@
 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
+<img align="left" width="30px" src="images/typescript.svg">
+
 <img align="left" width="25px" src="images/javascript.png">
 
 <img align="left" width="33px" src="images/html5.png">
@@ -31,6 +33,8 @@
 <img align="left" width="33px" src="images/swiftui.png">
 
 <img align="left" width="45px" src="images/nodejs.png">
+
+<img align="left" width="45px" src="images/heroku.png">
 
 <img align="left" width="25px" src="images/sqllite.png">
 
