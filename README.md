@@ -34,7 +34,7 @@
 
 <img align="left" width="45px" src="images/nodejs.png">
 
-<img align="left" width="45px" src="images/heroku.png">
+<img align="left" width="40px" src="images/heroku.png">
 
 <img align="left" width="25px" src="images/sqllite.png">
 
