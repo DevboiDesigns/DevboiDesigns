@@ -4,11 +4,11 @@
 <br />
 <br /> -->
 <img align="left" width="34px" src="images/linkinInLogoSilver.png">
-[Linkedin]
+[Linkedin](https://www.linkedin.com/in/christopher-hicks-63682512a)
 <br />
 <br />
 <img align="left" width="34px" src="images/instagramLogo.png">
-[Instagram]
+[Instagram](https://www.instagram.com/infinity.christopher/)
 
 <br />
 
@@ -68,6 +68,4 @@
 
 <!-- [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[linkedin]: https://www.linkedin.com/in/christopher-hicks-63682512a
-[twitter]: https://twitter.com/devboidesigns
-[instagram]: https://www.instagram.com/infinity.christopher/
+<!-- [twitter]: https://twitter.com/devboidesigns -->
