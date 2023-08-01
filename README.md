@@ -4,10 +4,12 @@
 <br />
 <br /> -->
 <img align="left" width="34px" src="images/linkinInLogoSilver.png">
+
 [Linkedin](https://www.linkedin.com/in/christopher-hicks-63682512a)
 <br />
 <br />
 <img align="left" width="34px" src="images/instagramLogo.png">
+
 [Instagram](https://www.instagram.com/infinity.christopher/)
 
 <br />
