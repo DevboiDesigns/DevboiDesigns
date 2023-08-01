@@ -40,6 +40,8 @@
 
 <img align="left" width="40px" src="images/heroku.png">
 
+<img align="left" width="38px" src="images/Docker.png">
+
 <img align="left" width="25px" src="images/sqllite.png">
 
 <img align="left" width="32px" src="images/mongodb.png">
