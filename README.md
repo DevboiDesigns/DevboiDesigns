@@ -1,8 +1,8 @@
 ## Social:
 
-<img align="left" width="34px" src="images/twitterLogo.png">[Twitter]
+<!-- <img align="left" width="34px" src="images/twitterLogo.png">[Twitter]
 <br />
-<br />
+<br /> -->
 <img align="left" width="34px" src="images/linkinInLogoSilver.png">
 [Linkedin]
 <br />
@@ -54,10 +54,11 @@
 <br />
 <br />
 
-## Hire Me:
+## Employment History:
 
+- iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - June 2022`
+- Head of Tech at [StockLift](https://www.stocklift.co) `July 2022 - Present`
 - Full Stack Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
-<!-- - iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - present` -->
 
 <br />
 <br />
