@@ -1,4 +1,4 @@
-## Social:
+## Social
 
 <img align="left" width="34px" src="images/twitterLogo.png">
 
@@ -16,7 +16,7 @@
 
 <br />
 
-## Languages:
+## Languages
 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
@@ -32,7 +32,7 @@
 
 <br />
 
-## Tools:
+## Tools
 
 <img align="left" width="33px" src="images/swiftui.png">
 
@@ -58,7 +58,7 @@
 <br />
 <br />
 
-## Employment:
+## Employment
 
 - Full Stack Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
 - Head of Tech at [StockLift](https://www.stocklift.co) `July 2022 - Present`
