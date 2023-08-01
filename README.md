@@ -66,7 +66,7 @@
 <br />
 <br />
 
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [linkedin]: https://www.linkedin.com/in/christopher-hicks-63682512a
 [twitter]: https://twitter.com/devboidesigns
