@@ -1,8 +1,10 @@
 ## Social:
 
-<!-- <img align="left" width="34px" src="images/twitterLogo.png">[Twitter]
+<img align="left" width="34px" src="images/twitterLogo.png">
+
+[Twitter](https://twitter.com/devboidesigns)
 <br />
-<br /> -->
+<br />
 <img align="left" width="34px" src="images/linkinInLogoSilver.png">
 
 [Linkedin](https://www.linkedin.com/in/christopher-hicks-63682512a)
@@ -69,5 +71,3 @@
 <br />
 
 <!-- [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [twitter]: https://twitter.com/devboidesigns -->
