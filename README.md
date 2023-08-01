@@ -34,23 +34,23 @@
 
 ## Tools
 
-<img align="center" width="33px" src="images/swiftui.png">
+<img align="left" width="33px" src="images/swiftui.png">
 
-<img align="center" width="45px" src="images/nodejs.png">
+<img align="left" width="45px" src="images/nodejs.png">
 
-<img align="center" width="40px" src="images/heroku.png">
+<img align="left" width="40px" src="images/heroku.png">
 
-<img align="center" width="38px" src="images/Docker.png">
+<img align="left" width="38px" src="images/Docker.png">
 
-<img align="center" width="25px" src="images/sqllite.png">
+<img align="left" width="25px" src="images/sqllite.png">
 
-<img align="center" width="32px" src="images/mongodb.png">
+<img align="left" width="32px" src="images/mongodb.png">
 
-<img align="center" width="42px" src="images/firebaseLogo.png">
+<img align="left" width="42px" src="images/firebaseLogo.png">
 
-<img align="center" width="35px" src="images/xcode.png">
+<img align="left" width="35px" src="images/xcode.png">
 
-<img align="center" width="30px" src="images/postman.png">
+<img align="left" width="30px" src="images/postman.png">
 
 <!-- <img align="left" width="40px" src="images/photoshopLogo.png"> -->
 
