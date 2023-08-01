@@ -58,7 +58,7 @@
 <br />
 <br />
 
-## Employment History:
+## Employment:
 
 - iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - June 2022`
 - Head of Tech at [StockLift](https://www.stocklift.co) `July 2022 - Present`
