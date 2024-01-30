@@ -62,9 +62,9 @@
 
 ## Employment
 
-- Full Stack Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
 - Head of Tech at [StockLift](https://www.stocklift.co) `July 2022 - Present`
 - iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - June 2022`
+- Full Stack Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
 
 <br />
 <br />
