@@ -1,9 +1,9 @@
 ## Social
 
-<img align="left" width="34px" src="images/twitterLogo.png">
+<!-- <img align="left" width="34px" src="images/twitterLogo.png">
 
 [Twitter](https://twitter.com/devboidesigns)
-<br />
+<br /> -->
 <br />
 <img align="left" width="34px" src="images/linkinInLogoSilver.png">
 
@@ -24,6 +24,8 @@
 
 <img align="left" width="25px" src="images/javascript.png">
 
+<img align="left" width="30px" src="images/python.png">
+
 <img align="left" width="33px" src="images/html5.png">
 
 <img align="left" width="33px" src="images/css.png">
@@ -38,9 +40,11 @@
 
 <img align="left" width="45px" src="images/nodejs.png">
 
-<img align="left" width="40px" src="images/heroku.png">
+<img align="left" width="28px" src="images/heroku.png">
 
-<img align="left" width="38px" src="images/Docker.png">
+<img align="left" width="34px" src="images/gcloud.png">
+
+<img align="left" width="33px" src="images/Docker.png">
 
 <img align="left" width="25px" src="images/sqllite.png">
 
