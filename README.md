@@ -32,9 +32,19 @@
 
 <br />
 
-## Tools
+# Tools
+
+## Front End
 
 <img align="left" width="33px" src="images/swiftui.png">
+
+<img align="left" width="35px" src="images/xcode.png">
+
+<br />
+
+<br />
+
+## Back End
 
 <img align="left" width="30px" src="images/typescript.svg">
 
@@ -52,9 +62,15 @@
 
 <img align="left" width="42px" src="images/firebaseLogo.png">
 
-<img align="left" width="35px" src="images/xcode.png">
-
 <img align="left" width="30px" src="images/postman.png">
+
+<br />
+
+<br />
+
+## UI/UX
+
+<img align="left" width="30px" src="images/sketch.png">
 
 <img align="left" width="40px" src="images/photoshopLogo.png">
 
