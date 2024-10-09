@@ -44,10 +44,6 @@
 
 <img align="left" width="34px" src="images/gcloud.png">
 
-<br />
-
-<br />
-
 <img align="left" width="33px" src="images/Docker.png">
 
 <img align="left" width="25px" src="images/sqllite.png">
@@ -57,10 +53,6 @@
 <img align="left" width="42px" src="images/firebaseLogo.png">
 
 <img align="left" width="35px" src="images/xcode.png">
-
-<br />
-
-<br />
 
 <img align="left" width="30px" src="images/postman.png">
 
