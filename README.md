@@ -20,8 +20,6 @@
 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
-<img align="left" width="30px" src="images/typescript.svg">
-
 <img align="left" width="25px" src="images/javascript.png">
 
 <img align="left" width="30px" src="images/python.png">
@@ -38,11 +36,17 @@
 
 <img align="left" width="33px" src="images/swiftui.png">
 
+<img align="left" width="30px" src="images/typescript.svg">
+
 <img align="left" width="45px" src="images/nodejs.png">
 
 <img align="left" width="28px" src="images/heroku.png">
 
 <img align="left" width="34px" src="images/gcloud.png">
+
+<br />
+
+<br />
 
 <img align="left" width="33px" src="images/Docker.png">
 
@@ -54,9 +58,13 @@
 
 <img align="left" width="35px" src="images/xcode.png">
 
+<br />
+
+<br />
+
 <img align="left" width="30px" src="images/postman.png">
 
-<!-- <img align="left" width="40px" src="images/photoshopLogo.png"> -->
+<img align="left" width="40px" src="images/photoshopLogo.png">
 
 <br />
 <br />
