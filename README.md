@@ -1,4 +1,4 @@
-## Social
+# Social
 
 <!-- <img align="left" width="34px" src="images/twitterLogo.png">
 
@@ -16,7 +16,7 @@
 
 <br />
 
-## Languages
+# Languages
 
 <img align="left" width="33px" src="images/swiftLogo.png">
 
