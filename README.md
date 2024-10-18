@@ -36,21 +36,17 @@
 
 **Front End**
 
-<img align="left" width="33px" src="images/swiftui.png">
+<img width="33px" src="images/swiftui.png">
 
-<img align="left" width="35px" src="images/xcode.png">
-
-<br />
-
-<br />
+<img width="35px" src="images/xcode.png">
 
 **Back End**
 
-<img align="left" width="30px" src="images/typescript.svg">
+<img width="30px" src="images/typescript.svg">
 
-<img align="left" width="45px" src="images/nodejs.png">
+<img width="45px" src="images/nodejs.png">
 
-<img align="left" width="28px" src="images/heroku.png">
+<img width="28px" src="images/heroku.png">
 
 <img align="left" width="34px" src="images/gcloud.png">
 
@@ -70,14 +66,10 @@
 
 **UI/UX**
 
-<img align="left" width="30px" src="images/sketch.png">
+<img width="30px" src="images/sketch.png">
 
-<img align="left" width="40px" src="images/photoshopLogo.png">
+<img width="40px" src="images/photoshopLogo.png">
 
-<br />
-<br />
-
-<br />
 <br />
 
 # Employment
