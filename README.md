@@ -34,7 +34,7 @@
 
 # Tools
 
-## Front End
+**Front End**
 
 <img align="left" width="33px" src="images/swiftui.png">
 
@@ -44,7 +44,7 @@
 
 <br />
 
-## Back End
+**Back End**
 
 <img align="left" width="30px" src="images/typescript.svg">
 
@@ -68,7 +68,7 @@
 
 <br />
 
-## UI/UX
+**UI/UX**
 
 <img align="left" width="30px" src="images/sketch.png">
 
