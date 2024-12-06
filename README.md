@@ -28,4 +28,4 @@
 - iOS Developer at [Private Island](https://privateisland.io) `Aug 2021 - June 2022`
 - Full Stack Dev on [Upwork](https://www.upwork.com/freelancers/devboidesigns)
 
-<!-- [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevboiDesigns&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
