@@ -10,7 +10,7 @@
 
 **Front End**
 
-<img style="padding:10px;background-color:black" width="33px" src="images/swiftui.png"> <img style="padding:10px;background-color:black" width="35px" src="images/xcode.png">
+<img style="padding:10px;background-color:black" width="33px" src="images/swiftui.png"> <img style="padding:10px;background-color:black" width="35px" src="images/xcode.png"> <img style="padding:10px;background-color:black" width="33px" src="images/vue.png"> <img style="padding:10px;background-color:black" width="35px" src="images/vite.png">
 
 **Back End**
 
