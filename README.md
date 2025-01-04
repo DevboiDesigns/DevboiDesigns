@@ -34,7 +34,7 @@
 
 **Self**
 
-| SQL                                                                                     | MongoDB                                                                                |
+| Hetzner                                                                                     | Ubuntu                                                                                |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png"> |
 
