@@ -22,6 +22,10 @@
 
 <img style="padding:10px;background-color:black" width="30px" src="images/sketch.png"> <img style="padding:10px;background-color:black" width="40px" src="images/photoshopLogo.png">
 
+**Self**
+
+<img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png">
+
 # Employment
 
 - Head of Tech at [StockLift](https://www.stocklift.co) `July 2022 - Present`
