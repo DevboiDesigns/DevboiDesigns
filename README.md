@@ -1,30 +1,42 @@
-# Social
+<!-- # Social
 
-[<img style="padding:10px;background-color:black" width="34px" src="images/linkinInLogoSilver.png">](https://www.linkedin.com/in/christopher-hicks-63682512a) [<img style="padding:10px;background-color:black" width="42px" src="images/instagramLogo.png">](https://www.instagram.com/infinity.christopher/)
+[<img style="padding:10px;background-color:black" width="34px" src="images/linkinInLogoSilver.png">](https://www.linkedin.com/in/christopher-hicks-63682512a) [<img style="padding:10px;background-color:black" width="42px" src="images/instagramLogo.png">](https://www.instagram.com/infinity.christopher/) -->
 
 # Languages
 
-<img style="padding:10px;background-color:black" width="33px" src="images/swiftLogo.png"> <img style="padding:10px;background-color:black" width="25px" src="images/javascript.png"> <img style="padding:10px;background-color:black" width="30px" src="images/python.png"> <img style="padding:10px;background-color:black" width="33px" src="images/html5.png"> <img style="padding:10px;background-color:black" width="33px" src="images/css.png">
+| Swift                                                                                     | JS                                                                                         | Python                                                                                 | HTML                                                                                  | CSS                                                                                 |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="33px" src="images/swiftLogo.png"> | <img style="padding:10px;background-color:black" width="25px" src="images/javascript.png"> | <img style="padding:10px;background-color:black" width="30px" src="images/python.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/html5.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/css.png"> |
 
 # Tools
 
 **Front End**
 
-<img style="padding:10px;background-color:black" width="33px" src="images/swiftui.png"> <img style="padding:10px;background-color:black" width="35px" src="images/xcode.png"> <img style="padding:10px;background-color:black" width="33px" src="images/vue.png"> <img style="padding:10px;background-color:black" width="35px" src="images/vite.png">
+| SwiftUI                                                                                 | Xcode                                                                                 | Vue                                                                                 | Vite                                                                                 |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| <img style="padding:10px;background-color:black" width="33px" src="images/swiftui.png"> | <img style="padding:10px;background-color:black" width="35px" src="images/xcode.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/vue.png"> | <img style="padding:10px;background-color:black" width="35px" src="images/vite.png"> |
 
 **Back End**
 
-<img style="padding:10px;background-color:black" width="30px" src="images/typescript.svg"> <img style="padding:10px;background-color:black" width="45px" src="images/nodejs.png"> <img style="padding:5px;background-color:black" width="28px" src="images/heroku.png"> <img style="padding:10px;background-color:black" width="34px" src="images/gcloud.png"> <img style="padding:10px;background-color:black" width="33px" src="images/Docker.png">
+| TypeScript                                                                                 | NodeJS                                                                                 | Heroku                                                                                | Google Cloud                                                                           | Docker                                                                                 |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="30px" src="images/typescript.svg"> | <img style="padding:10px;background-color:black" width="45px" src="images/nodejs.png"> | <img style="padding:5px;background-color:black" width="28px" src="images/heroku.png"> | <img style="padding:10px;background-color:black" width="34px" src="images/gcloud.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/Docker.png"> |
 
-<img style="padding:10px;background-color:black" width="25px" src="images/sqllite.png"> <img style="padding:10px;background-color:black" width="32px" src="images/mongodb.png"> <img style="padding:10px;background-color:black" width="42px" src="images/firebaseLogo.png"> <img style="padding:10px;background-color:black" width="30px" src="images/postman.png">
+| SQL                                                                                     | MongoDB                                                                                 | Firebase                                                                                     | Postman                                                                                 |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="25px" src="images/sqllite.png"> | <img style="padding:10px;background-color:black" width="32px" src="images/mongodb.png"> | <img style="padding:10px;background-color:black" width="42px" src="images/firebaseLogo.png"> | <img style="padding:10px;background-color:black" width="30px" src="images/postman.png"> |
 
 **UI/UX**
 
-<img style="padding:10px;background-color:black" width="30px" src="images/sketch.png"> <img style="padding:10px;background-color:black" width="40px" src="images/photoshopLogo.png">
+| Sketch                                                                                 | Photoshop                                                                                     |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="30px" src="images/sketch.png"> | <img style="padding:10px;background-color:black" width="40px" src="images/photoshopLogo.png"> |
 
 **Self**
 
-<img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png">
+| SQL                                                                                     | MongoDB                                                                                |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png"> |
 
 # Employment
 
