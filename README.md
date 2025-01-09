@@ -12,9 +12,9 @@
 
 **Front End**
 
-| SwiftUI                                                                                 | Xcode                                                                                 | Vue                                                                                 | Vite                                                                                 |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| <img style="padding:10px;background-color:black" width="33px" src="images/swiftui.png"> | <img style="padding:10px;background-color:black" width="35px" src="images/xcode.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/vue.png"> | <img style="padding:10px;background-color:black" width="35px" src="images/vite.png"> |
+| SwiftUI                                                                                 | Xcode                                                                                 | Vue                                                                                 | Vite                                                                                 | Lit                                                                                      |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="33px" src="images/swiftui.png"> | <img style="padding:10px;background-color:black" width="35px" src="images/xcode.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/vue.png"> | <img style="padding:10px;background-color:black" width="35px" src="images/vite.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/lit-logo.png"> |
 
 **Back End**
 
@@ -34,7 +34,7 @@
 
 **Self**
 
-| Hetzner                                                                                     | Ubuntu                                                                                |
+| Hetzner                                                                                 | Ubuntu                                                                                 |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png"> |
 
