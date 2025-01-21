@@ -34,9 +34,9 @@
 
 **Self**
 
-| Hetzner                                                                                 | Ubuntu                                                                                 | Sequelize                                                                                 |
-| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| <img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/sequelize.png"> |
+| Hetzner                                                                                 | Ubuntu                                                                                 | Nginx                                                                                 | Sequelize                                                                                 |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="30px" src="images/hetzner.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/ubuntu.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/nginx.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/sequelize.png"> |
 
 # Employment
 
