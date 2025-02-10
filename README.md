@@ -20,7 +20,7 @@
 
 **Back End**
 
-| TypeScript                                                                                 | NodeJS                                                                                 | Express                                                                                   | Docker                                                                                 |
+| TS                                                                                 | NodeJS                                                                                 | Express                                                                                   | Docker                                                                                 |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img style="padding:10px;background-color:black" width="30px" src="images/typescript.svg"> | <img style="padding:10px;background-color:black" width="45px" src="images/nodejs.png"> | <img style="padding:10px;background-color:black" width="45px" src="images/expressjs.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/Docker.png"> |
 
