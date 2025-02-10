@@ -18,13 +18,15 @@
 
 **Back End**
 
-| TypeScript                                                                                 | NodeJS                                                                                 | Google Cloud                                                                           | Docker                                                                                 |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <img style="padding:10px;background-color:black" width="30px" src="images/typescript.svg"> | <img style="padding:10px;background-color:black" width="45px" src="images/nodejs.png"> | <img style="padding:10px;background-color:black" width="34px" src="images/gcloud.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/Docker.png"> |
+**Back End**
 
-| SQL                                                                                     | MongoDB                                                                                 | Firebase                                                                                     | Postman                                                                                 |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| <img style="padding:10px;background-color:black" width="25px" src="images/sqllite.png"> | <img style="padding:10px;background-color:black" width="32px" src="images/mongodb.png"> | <img style="padding:10px;background-color:black" width="42px" src="images/firebaseLogo.png"> | <img style="padding:10px;background-color:black" width="30px" src="images/postman.png"> |
+| TypeScript                                                                                 | NodeJS                                                                                 | Express                                                                                   | Docker                                                                                 |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="30px" src="images/typescript.svg"> | <img style="padding:10px;background-color:black" width="45px" src="images/nodejs.png"> | <img style="padding:10px;background-color:black" width="45px" src="images/expressjs.png"> | <img style="padding:10px;background-color:black" width="33px" src="images/Docker.png"> |
+
+| SQL                                                                                     | MongoDB                                                                                 | Cloud                                                                                  |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img style="padding:10px;background-color:black" width="25px" src="images/sqllite.png"> | <img style="padding:10px;background-color:black" width="32px" src="images/mongodb.png"> | <img style="padding:10px;background-color:black" width="34px" src="images/gcloud.png"> |
 
 **UI/UX**
 
